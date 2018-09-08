@@ -1,0 +1,7 @@
+/* 1 = User, 2 = Creator, 3 = Admin, 4 = Supperior Admin, 5 = Developer */
+{data:[
+{username:"John Militer", status:5, madeby:0, userid:0},
+{username:"The System", status:5, madeby:0, userid:1}
+{username:"Adim", status:5, madeby:0, userid:16},
+{username:"Jai", status:5, madeby:0, userid:8}
+]}
